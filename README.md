@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This is the start of an app for tutoring
